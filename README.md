@@ -1,5 +1,3 @@
-# .github
-
 # Who Are We?
 
 Whispernode is a grassroots validator team that's 100% focused on decentralization, security, & the cosmos ecosystem. We started with just one validator on Secret Network and have now grown to supporting 20+ networks. We love the Web3 space and consider ourselves blessed to be able to do what we do everyday. We strive to be incrementally better at what we do every single day, and thus reinvest a lot of our resources from delegators into improving WhisperNode.
