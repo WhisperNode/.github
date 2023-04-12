@@ -17,9 +17,6 @@ For our setup we have a validator and multiple sentry nodes for each network. We
 
 We are actively testing new monitoring & alerting solutions.  Currently we run multiple Tenderduty/Pagerduty instances, which monitor our nodes 24/7/365. If we miss 10+ blocks, we're immediately alerted via SMS/push notifications. After 3 mins, it spam calls us (not fun when you’re sleeping!)
 
-In addition we’re running PANIC (node alerts via Telegram), HalfLife (realtime Discord node alerts), and UptimeRobot. 
-
-These give a clear picture of every single node at ALL times, & massive redundancy in case 1 or more fail to alert us (for any reason).
 
 We utilize the following as our monitoring solutions:
 
@@ -28,6 +25,8 @@ We utilize the following as our monitoring solutions:
 - Pagerduty
 - Tenderduty
 - BetterUptime
+
+These give a clear picture of every single node at ALL times, & massive redundancy in case 1 or more fail to alert us (for any reason).
 
 # Our Contributions
 
