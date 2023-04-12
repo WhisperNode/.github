@@ -38,7 +38,7 @@ Some of our contributions include:
 - Public RPC + API endpoints for every network (available in the <a href="https://cosmos.directory">chain directory</a>). We’re on track to hit about 500MM queries a month.
 - REStake for every chain AuthZ is enabled on (including our <a href="https://restake.whispernode.com">own REStake frontend</a>)
 - Testnet nodes for a number of chains
-- Seed Nodes (available in chain directory / https://cosmos.directory/)
+- Seed Nodes (available in <a href="https://cosmos.directory">chain directory</a>)
 - Tutorial Videos 
 - Community Programs (such as the Secret Agents program)
 - Merch shop for various projects
