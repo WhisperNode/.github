@@ -3,16 +3,13 @@
 
 # Who Are We?
 
-Whispernode is a grassroots validator team that's 100% focused on decentralization, transparency, security, and reliability. We started with just one validator on Secret Network and have now grown to supporting 20+ networks and have over $18,000,000 in Assets Under Management. 
-
-We love the Web3 space and consider ourselves blessed to be able to do what we do everyday. We strive to be incrementally better at what we do every single day, and thus reinvest a lot of our resources from delegators into improving WhisperNode.
+Whispernode is a grassroots validator team that's 100% focused on decentralization, security, & the cosmos ecosystem. We started with just one validator on Secret Network and have now grown to supporting 20+ networks. We love the Web3 space and consider ourselves blessed to be able to do what we do everyday. We strive to be incrementally better at what we do every single day, and thus reinvest a lot of our resources from delegators into improving WhisperNode.
 
 WhisperNode works 24/7 to ensure that delegators can sleep peacefully, knowing their funds are #SAFU. Our team utilizes dedicated Bare Metal servers around the world, multiple 24/7 alerting systems, and a remote signing solution with always-ready backups. 
 
+
 We differentiate ourselves through our public infrastructure like API node, governance participation, and community engagement. 
-
-# Our Infrastructure
-
+Our Infrastructure
 Servers:
 
 Whispernode currently rents bare metal servers in multiple locations around the world. We are not reliant on one provider OR one geographic location. We utilize providers like Leaseweb, AWS, OVHCloud, Hetzner, Hivelocity and MEVspace, spread across multiple geographic locations. 
@@ -91,6 +88,19 @@ Some of our contributions include:
 - Axelar (axelar-testnet-lisbon-3)
 - Aura Network (euphoria-2)
 - Secret Network (pulsar-2)
+
+## RPC Nodes:
+
+- Ethereum
+- Avalanche
+- Fantom
+- BSC
+- Arbitrum
+- Aurora
+- Kava
+- Filecoin
+- Moonbeam
+- Polygon
 
 # Where can you find WhisperNode?
 
