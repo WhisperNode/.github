@@ -88,6 +88,10 @@ Some of our contributions include:
 - Axelar (axelar-testnet-lisbon-3)
 - Aura Network (euphoria-2)
 - Secret Network (pulsar-2)
+- Composable Finance (banksy-2)
+- Composable Finance (banksy-3)
+- Empower (circulus-1)
+- Cooperative Denom 
 
 ## RPC Nodes:
 
