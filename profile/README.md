@@ -1,5 +1,5 @@
 
-![Whispernode-Banner](https://user-images.githubusercontent.com/49853598/232549795-4c2b1503-af81-4357-8714-9ab0bba98bee.jpg)
+![Whispernode-Banner](https://github.com/WhisperNode/.github/blob/main/profile/WhispernodeBanner.png)
 
 # Who Are We?
 
