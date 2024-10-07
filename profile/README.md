@@ -15,11 +15,15 @@ WhisperNode isn't just an infrastructure provider; we are a beacon of trust and 
 
 Some of our contributions include:
 
-- Public RPC + API endpoints for every network (available in the <a href="https://cosmos.directory">chain directory</a>). We’re on track to hit about 500MM queries a month.
-- <a href="https://relayers.smartstake.io/relayer/9C7571030BEF5157">Relayers</a> 
+- Public RPC + API endpoints for every validated network (available in the <a href="https://cosmos.directory">chain directory</a>). 
+We currently see over 1.5B+ requests/month on our blockchain infrastructure 🔥
+- Mainnet <a href="https://relayers.smartstake.io/relayer/9C7571030BEF5157">IBC Relayer</a> support using RLY - we're big fans.
 - REStake for every chain AuthZ is enabled on (including our <a href="https://restake.whispernode.com">own REStake frontend</a>)
-- Testnet nodes for a number of chains
-- Seed Nodes (available in <a href="https://cosmos.directory">chain directory</a>)
+- Mainnet block explorer for <a href="https://mainnet.whispernode.com">all validated mainnet networks</a>
+- Testnet block explorer for <a href="https://testnet.whispernode.com">all validated testnet networks</a>
+- Penumbra <a href="https://penumbra.whispernode.com">staking dashboard</a> for mainnet - check it out!
+- Mainnet Seed Nodes (available in <a href="https://cosmos.directory">chain directory</a>)
+- Testnet Seed Nodes (available in the <a href="https://testnet.cosmos.directory">testnet chain directory</a>)
 - <a href="https://www.youtube.com/@whispernode1502/videos">Tutorial Videos</a> 
 - Community Programs (such as the Secret Agents program)
 - <a href="www.cryptographix.io">Merch Shop</a> for various projects
@@ -29,57 +33,51 @@ Some of our contributions include:
 
 ## Active / Mainnet Nodes:
 
+- Akash
 - Axelar
-- Sei Network
-- Injective
-- Secret Network
-- CosmosHub
-- Quasar Finance
-- Osmosis
+- Babylon
 - Cheqd
-- Archway
-- JUNO
-- Sentinel
-- Comdex
-- Stargaze
-- Stride
-- Kujira
-- Jackal
-- Nomic
-- AssetMantle
-- Passage
-- Gitopia
-- Composable Finance
-- Empowerchain
-
-## Upcoming Networks / Testnet Nodes:
-
-- Aleo
-- Babylon 
+- CosmosHub
 - Dymension
-- MantraChain
-- Namada
-- Union 
-- Defund 
-- Cooperative Denom 
+- Injective
+- Jackal
+- Namada (currently in phase 2)
+- Neutron
+- Nomic
+- Osmosis
+- Penumbra
+- Secret Network
+- Seda
+- Sei Network
+- Stride
 
-## RPC Nodes:
+## Upcoming Networks / Active Testnet Nodes:
 
-- Ethereum
-- Avalanche
-- Fantom
-- BSC
+- Berachain
+- Mantra
+- Supra Oracle
+- Union
+
+## RPC Endpoint Support:
+
 - Arbitrum
 - Aurora
-- Kava
-- Filecoin
-- Moonbeam
-- Polygon
+- Avalanche
 - Base
+- Blast
+- BSC (Binance Smart Chain)
 - Celo
 - Centrifuge
+- Ethereum
+- Fantom
+- Filecoin
+- Flow
+- Fraxtal
+- Immutable zkEVM
+- Kava
 - Linea
 - Mantle
+- Moonbeam
 - Optimism
 
 # Where can you find WhisperNode?
