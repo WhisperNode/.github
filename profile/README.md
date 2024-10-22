@@ -57,6 +57,7 @@ We currently see over 1.5B+ requests/month on our blockchain infrastructure 🔥
 - Mantra
 - Supra Oracle
 - Union
+- Initia
 
 ## RPC Endpoint Support:
 
@@ -82,7 +83,7 @@ We currently see over 1.5B+ requests/month on our blockchain infrastructure 🔥
 
 # Where can you find WhisperNode?
 
-- Email: [hello@WhisperNode.com](mailto:hello@WhisperNode.com)
+- Email: [hello@WhisperNode.com](mailto:brendan@WhisperNode.com)
 - Website: [https://WhisperNode.com](https://www.WhisperNode.com/)
 - Twitter: [https://twitter.com/WhisperNode](https://twitter.com/WhisperNode)
 - Discord: [https://discord.gg/uYWH5Brgu9](https://discord.gg/4E5KZsRtjE)
